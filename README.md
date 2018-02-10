@@ -1,5 +1,5 @@
 ### Start
-go run main.go
+Run $ dep ensure && go run main.go
 
 ### Curls
 curl -X POST -H "Content-Type:application/graphql"  -d '{
